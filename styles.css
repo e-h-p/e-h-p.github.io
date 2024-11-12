@@ -141,7 +141,8 @@ hr {
 
 
 #projects{
-    background-color:#c2c0c3;
+    background-color:#b2a6b8;
+    padding: 4rem 0;
 }
 #projects h2 {
     font-family: 'Poppins', sans-serif;
@@ -200,7 +201,7 @@ hr {
 }
 
 .btn-outline-primary:hover {
-    background-color: #4CAF50;
+    background-color: #b1adf0;
     color: #fff;
 }
 
@@ -215,7 +216,7 @@ hr {
 }
 /* Contact Section Container */
 #contact {
-    background-color:#c2c0c3;/* Set entire section to white */
+    background-color:#e0dce2;/* Set entire section to white */
     padding: 4rem 0; /* Increased vertical padding for breathing room */
 }
 
@@ -252,7 +253,7 @@ hr {
     font-family: 'Poppins', sans-serif;
     font-weight: 500;
     color: white;
-    background-color: #4CAF50;
+    background-color: #2631d1;
     border: none;
     padding: 0.75rem;
     border-radius: 5px;
@@ -261,8 +262,9 @@ hr {
 
 /* Hover Effect for Submit Button */
 #contact button:hover {
-    background-color: #45a049;
+    background-color:#b1adf0;
 }
+
 
 .footer-link {
     color: white;
@@ -283,12 +285,12 @@ hr {
 }
 
 .footer-link:hover {
-    color: #ddd; /* Hover effect */
+    color: #13c9d6; /* Hover effect */
     text-decoration: none;
 }
 
 .footer-top-link {
-    color: #4CAF50;
+    color: #02f827;
     font-size: 1.7rem; /* Larger font for TOP link */
     font-family: 'Poppins', sans-serif;
     font-weight: bold;
@@ -297,7 +299,7 @@ hr {
 }
 
 .footer-top-link:hover {
-    color: #45a049;
+    color: #b1adf0;
 }
 
 .footer p {
